@@ -1,0 +1,10 @@
+openai
+transformers
+torch
+haversine
+pandas
+fastapi
+uvicorn[standard]
+python-multipart
+psutil
+pygments
