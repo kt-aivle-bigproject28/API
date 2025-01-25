@@ -8,3 +8,4 @@ uvicorn[standard]
 python-multipart
 psutil
 pygments
+azure-storage-blob==12.19.0
